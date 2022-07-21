@@ -1,0 +1,7 @@
+.Nav {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  padding: 8px;
+  background-color: #f7f8f9;
+}
